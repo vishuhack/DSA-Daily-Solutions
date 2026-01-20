@@ -4,7 +4,7 @@ Problem  : Largest Magic Square in Grid
 Approach : Prefix Sum (Row + Column) Optimization
 Author   : Vishvesh Paturkar
 GitHub   : https://github.com/your-username
-Date     : 2026
+Date     : 19/01/2026
 ----------------------------------------------------
 */
 

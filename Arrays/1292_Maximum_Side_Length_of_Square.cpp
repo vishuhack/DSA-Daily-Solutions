@@ -4,7 +4,7 @@ Problem  : Maximum Side Length of Square with Sum <= Threshold
 Approach : Prefix Sum + Binary Search Optimization
 Author   : Vishvesh Paturkar
 GitHub   : https://github.com/vishuhack
-Date     : 2026
+Date     : 18/01/2026
 ----------------------------------------------------
 */
 #include<bits/stdc++.h>
