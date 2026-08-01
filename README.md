@@ -25,6 +25,7 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -33,4 +34,5 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
