@@ -2,42 +2,80 @@ class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
         int n = nums.size();
-        int can1 = INT_MIN;
-        int can2 = INT_MIN;
-        int cnt1 = 0, cnt2 = 0;
 
+        // At most two elements can appear more than n/3 times.
+        int candidate1 = INT_MIN;
+        int candidate2 = INT_MIN;
+
+        // Vote counts for both candidates.
+        int count1 = 0;
+        int count2 = 0;
+
+        // First pass: Find the two possible majority candidates.
         for (int i = 0; i < n; i++) {
-            if (cnt1 == 0 && can2 != nums[i]) {
-                cnt1 = 1;
-                can1 = nums[i];
-            } else if (cnt2 == 0 && can1 != nums[i]) {
-                cnt2 = 1;
-                can2 = nums[i];
-            } else if (can1 == nums[i]) {
-                cnt1++;
-            } else if (can2 == nums[i]) {
-                cnt2++;
-            } else {
-                cnt1--;
-                cnt2--;
+
+            // Select the current element as candidate1
+            // only when candidate1 has no active votes
+            // and the element is different from candidate2.
+            if (count1 == 0 && candidate2 != nums[i]) {
+                candidate1 = nums[i];
+                count1 = 1;
+            }
+
+            // Select the current element as candidate2
+            // only when candidate2 has no active votes
+            // and the element is different from candidate1.
+            else if (count2 == 0 && candidate1 != nums[i]) {
+                candidate2 = nums[i];
+                count2 = 1;
+            }
+
+            // Current element matches candidate1.
+            else if (candidate1 == nums[i]) {
+                count1++;
+            }
+
+            // Current element matches candidate2.
+            else if (candidate2 == nums[i]) {
+                count2++;
+            }
+
+            // Current element matches neither candidate,
+            // so cancel one vote from both.
+            else {
+                count1--;
+                count2--;
             }
         }
-        vector<int> res;
-        int mini = (n / 3);
-        cnt1 = 0;
-        cnt2 = 0;
+
+        // Second pass: Verify the actual frequencies
+        // of both possible candidates.
+        count1 = 0;
+        count2 = 0;
+
         for (int i = 0; i < n; i++) {
-            if (can1 == nums[i])
-                cnt1++;
-            if (can2 == nums[i])
-                cnt2++;
+            if (nums[i] == candidate1) {
+                count1++;
+            }
+
+            if (nums[i] == candidate2) {
+                count2++;
+            }
         }
-        if (cnt1 > mini) {
-            res.push_back(can1);
+
+        vector<int> result;
+
+        // Required frequency must be strictly greater than n/3.
+        int frequencyLimit = n / 3;
+
+        if (count1 > frequencyLimit) {
+            result.push_back(candidate1);
         }
-        if (cnt2 > mini && can2 != can1) {
-            res.push_back(can2);
+
+        if (count2 > frequencyLimit && candidate2 != candidate1) {
+            result.push_back(candidate2);
         }
-        return res;
+
+        return result;
     }
 };
