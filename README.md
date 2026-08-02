@@ -89,4 +89,8 @@ Vishvesh Paturkar
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Database
+|  |
+| ------- |
+| [1321-restaurant-growth](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1321-restaurant-growth) |
 <!---LeetCode Topics End-->
