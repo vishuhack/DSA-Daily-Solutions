@@ -28,6 +28,7 @@ Vishvesh Paturkar
 | [0136-single-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Math
@@ -49,10 +50,12 @@ Vishvesh Paturkar
 | ------- |
 | [0075-sort-colors](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,4 +64,5 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
