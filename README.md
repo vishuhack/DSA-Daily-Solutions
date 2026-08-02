@@ -24,6 +24,7 @@ Vishvesh Paturkar
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0136-single-number) |
@@ -78,4 +79,8 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
