@@ -97,6 +97,7 @@ Vishvesh Paturkar
 ## Database
 |  |
 | ------- |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1321-restaurant-growth](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1321-restaurant-growth) |
 ## Backtracking
 |  |
