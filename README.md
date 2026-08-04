@@ -70,6 +70,7 @@ Vishvesh Paturkar
 | [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Divide and Conquer
 |  |
@@ -114,6 +115,7 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Combinatorics
 |  |
@@ -123,6 +125,7 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Bitmask
 |  |
 | ------- |
