@@ -1,8 +1,10 @@
 class Solution {
 public:
     int n;
+    int cnt =0;
     void solve(string& tiles, vector<bool>& used, string& curr, unordered_set<string>& result){
         result.insert(curr);
+
 
         for(int i = 0; i < n; i++){
             if(used[i]){
