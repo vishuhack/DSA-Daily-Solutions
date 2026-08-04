@@ -113,6 +113,7 @@ Vishvesh Paturkar
 | [0185-department-top-three-salaries](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0620-not-boring-movies](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0620-not-boring-movies) |
 | [1321-restaurant-growth](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1321-restaurant-growth) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1484-group-sold-products-by-the-date](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1484-group-sold-products-by-the-date) |
