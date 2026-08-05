@@ -21,7 +21,7 @@ public:
         vector<string> result;
         string curr = "";
         solve(s, n, used, result, curr);
-        sort(result.begin(), result.end());
+        // sort(result.begin(), result.end());
         if ( k > result.size()) return "";
         return result[k-1];
     }
