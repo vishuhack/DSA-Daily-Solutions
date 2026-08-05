@@ -37,6 +37,7 @@ Vishvesh Paturkar
 | [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0733-flood-fill](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0733-flood-fill) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
@@ -151,6 +152,7 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0037-sudoku-solver) |
+| [0733-flood-fill](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0733-flood-fill) |
 ## Algorithm X
 |  |
 | ------- |
@@ -159,4 +161,12 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0733-flood-fill) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0733-flood-fill](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0733-flood-fill) |
 <!---LeetCode Topics End-->
