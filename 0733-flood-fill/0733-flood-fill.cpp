@@ -6,9 +6,9 @@ public:
         if(sr < 0 || sc < 0 || sr >= m || sc >= n || image[sr][sc] != orgColor){
             return;
         }
-        if(image[sr][sc] == color){
-            return;
-        }
+        // if(image[sr][sc] == color){
+        //     return;
+        // }
 
         if(image[sr][sc] == orgColor){
             image[sr][sc] = color;
@@ -25,6 +25,7 @@ public:
         m = image.size();
         n = image[0].size();
         orgColor = image[sr][sc];
+        if(orgColor == color) return image;
         solve(image, sr, sc, color);
         return image;
     }
