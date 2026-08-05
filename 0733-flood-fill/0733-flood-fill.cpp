@@ -10,15 +10,15 @@ public:
             return;
         }
 
-        
         if(image[sr][sc] == orgColor){
             image[sr][sc] = color;
         }else{
             return;
         }
+        
         solve(image, sr, sc -1, color);
         solve(image, sr, sc +1, color);
-        solve(image, sr-1, sc, color);
+        solve(image, sr - 1, sc, color);
         solve(image, sr + 1, sc, color);
     }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
