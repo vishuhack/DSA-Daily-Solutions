@@ -26,6 +26,7 @@ Vishvesh Paturkar
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0037-sudoku-solver](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -69,6 +70,7 @@ Vishvesh Paturkar
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
 | [1079-letter-tile-possibilities](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1079-letter-tile-possibilities) |
@@ -123,6 +125,7 @@ Vishvesh Paturkar
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0037-sudoku-solver) |
 | [1079-letter-tile-possibilities](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1079-letter-tile-possibilities) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -144,4 +147,16 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
