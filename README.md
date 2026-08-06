@@ -57,6 +57,7 @@ Vishvesh Paturkar
 | [0075-sort-colors](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0283-move-zeroes) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Vishvesh Paturkar
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3731-find-missing-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -95,6 +97,7 @@ Vishvesh Paturkar
 | [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
 | [1079-letter-tile-possibilities](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1079-letter-tile-possibilities) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +139,7 @@ Vishvesh Paturkar
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 ## Combinatorics
 |  |
@@ -148,6 +152,7 @@ Vishvesh Paturkar
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Bitmask
 |  |
 | ------- |
@@ -176,5 +181,6 @@ Vishvesh Paturkar
 ## Enumeration
 |  |
 | ------- |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
