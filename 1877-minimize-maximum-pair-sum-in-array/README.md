@@ -1,43 +1,196 @@
-<h2><a href="https://leetcode.com/problems/minimize-maximum-pair-sum-in-array">1988. Minimize Maximum Pair Sum in Array</a></h2><h3>Medium</h3><hr><p>The <strong>pair sum</strong> of a pair <code>(a,b)</code> is equal to <code>a + b</code>. The <strong>maximum pair sum</strong> is the largest <strong>pair sum</strong> in a list of pairs.</p>
+# Minimize Maximum Pair Sum in Array
 
-<ul>
-	<li>For example, if we have pairs <code>(1,5)</code>, <code>(2,3)</code>, and <code>(4,4)</code>, the <strong>maximum pair sum</strong> would be <code>max(1+5, 2+3, 4+4) = max(6, 5, 8) = 8</code>.</li>
-</ul>
+## Problem
 
-<p>Given an array <code>nums</code> of <strong>even</strong> length <code>n</code>, pair up the elements of <code>nums</code> into <code>n / 2</code> pairs such that:</p>
+Given an array `nums` of even length, divide all elements into pairs such that:
 
-<ul>
-	<li>Each element of <code>nums</code> is in <strong>exactly one</strong> pair, and</li>
-	<li>The <strong>maximum pair sum </strong>is <strong>minimized</strong>.</li>
-</ul>
+* Every element is used exactly once.
+* For every pair `(a, b)`, its pair sum is `a + b`.
+* Among all the pair sums, find the maximum pair sum.
+* We need to arrange the pairs so that this maximum value is as small as possible.
 
-<p>Return <em>the minimized <strong>maximum pair sum</strong> after optimally pairing up the elements</em>.</p>
+---
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+## Intuition
 
-<pre>
-<strong>Input:</strong> nums = [3,5,2,3]
-<strong>Output:</strong> 7
-<strong>Explanation:</strong> The elements can be paired up into pairs (3,3) and (5,2).
-The maximum pair sum is max(3+3, 5+2) = max(6, 7) = 7.
-</pre>
+The main idea is:
 
-<p><strong class="example">Example 2:</strong></p>
+> **The largest element is the biggest threat to creating the maximum pair sum.**
 
-<pre>
-<strong>Input:</strong> nums = [3,5,4,2,4,6]
-<strong>Output:</strong> 8
-<strong>Explanation:</strong> The elements can be paired up into pairs (3,5), (4,4), and (6,2).
-The maximum pair sum is max(3+5, 4+4, 6+2) = max(8, 8, 8) = 8.
-</pre>
+Since the largest element must be paired with some other element, whatever number we add to it will create a relatively large pair sum.
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Therefore, to keep this sum as small as possible, we should pair the **largest element with the smallest element**.
 
-<ul>
-	<li><code>n == nums.length</code></li>
-	<li><code>2 &lt;= n &lt;= 10<sup>5</sup></code></li>
-	<li><code>n</code> is <strong>even</strong>.</li>
-	<li><code>1 &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
-</ul>
+### Why Do We Sort?
+
+Sorting allows us to easily identify:
+
+* The smallest remaining element.
+* The largest remaining element.
+
+For example:
+
+`[3, 5, 4, 2, 4, 6]`
+
+After sorting:
+
+`[2, 3, 4, 4, 5, 6]`
+
+Now consider the largest element `6`.
+
+If we pair it with:
+
+* `6 + 5 = 11`
+* `6 + 4 = 10`
+* `6 + 3 = 9`
+* `6 + 2 = 8`
+
+Since `6` is already the largest number, pairing it with another large number would make the pair sum unnecessarily large.
+
+So the best choice is:
+
+`6 + 2 = 8`
+
+After using `2` and `6`, consider the next largest element `5`.
+
+Pair it with the next smallest available element:
+
+`5 + 3 = 8`
+
+Finally:
+
+`4 + 4 = 8`
+
+Therefore, the pairs are:
+
+`(2, 6), (3, 5), (4, 4)`
+
+Their sums are:
+
+`8, 8, 8`
+
+Maximum pair sum = `8`.
+
+---
+
+## Greedy Idea
+
+After sorting, always pair:
+
+**Smallest + Largest**
+
+Then:
+
+**Second Smallest + Second Largest**
+
+Then continue moving toward the center.
+
+This balances the pair sums.
+
+If we instead pair:
+
+**Largest + Another Large Element**
+
+we may create a very large pair sum, which is exactly what we are trying to avoid.
+
+So pairing the largest available element with the smallest available element helps control the maximum pair sum.
+
+---
+
+## Two-Pointer Approach
+
+After sorting the array:
+
+* Keep `l` at the beginning of the array.
+* Keep `r` at the end of the array.
+* `nums[l]` is the smallest remaining element.
+* `nums[r]` is the largest remaining element.
+* Pair `nums[l]` with `nums[r]`.
+* Calculate their pair sum.
+* Keep track of the maximum pair sum.
+* Move `l` forward and `r` backward.
+* Continue until all elements have been paired.
+
+---
+
+## Example
+
+Input:
+
+`nums = [3, 5, 2, 3]`
+
+After sorting:
+
+`[2, 3, 3, 5]`
+
+Pair smallest with largest:
+
+`2 + 5 = 7`
+
+Move both pointers inward:
+
+`3 + 3 = 6`
+
+Pair sums:
+
+`7, 6`
+
+Maximum pair sum:
+
+`max(7, 6) = 7`
+
+Therefore, the answer is:
+
+`7`
+
+---
+
+## Why Does This Work?
+
+Suppose the largest element is `x`.
+
+It must be paired with some element.
+
+Since our goal is to minimize the maximum pair sum, we want the pair containing `x` to be as small as possible.
+
+The smallest available element gives the smallest possible sum with `x`.
+
+Therefore:
+
+**Largest + Smallest**
+
+is the safest pairing for controlling the maximum pair sum.
+
+We repeat the same idea for the remaining elements.
+
+---
+
+## Pattern Recognition
+
+When a problem asks to:
+
+* Form pairs from an array.
+* Use every element exactly once.
+* Minimize the maximum pair sum.
+
+Think of:
+
+**Sorting + Greedy + Two Pointers**
+
+Key intuition:
+
+> **Pair the largest element with the smallest element because the largest element can create the maximum pair sum. Pairing it with the smallest available element keeps that sum under control.**
+
+---
+
+## Complexity
+
+**Time Complexity:** `O(n log n)`
+
+Sorting takes `O(n log n)`, while the two-pointer traversal takes `O(n)`.
+
+Overall:
+
+`O(n log n)`
+
+**Space Complexity:** `O(1)` auxiliary space, ignoring the internal space used by the sorting implementation.
