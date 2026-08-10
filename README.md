@@ -40,6 +40,7 @@ Vishvesh Paturkar
 | [0485-max-consecutive-ones](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0679-24-game](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0733-flood-fill) |
+| [0881-boats-to-save-people](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0881-boats-to-save-people) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -63,6 +64,7 @@ Vishvesh Paturkar
 | [0189-rotate-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0881-boats-to-save-people](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -77,6 +79,7 @@ Vishvesh Paturkar
 | [0075-sort-colors](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0229-majority-element-ii) |
+| [0881-boats-to-save-people](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0881-boats-to-save-people) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -199,5 +202,10 @@ Vishvesh Paturkar
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
