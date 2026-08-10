@@ -57,6 +57,7 @@ Vishvesh Paturkar
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -151,6 +152,7 @@ Vishvesh Paturkar
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1079-letter-tile-possibilities](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1079-letter-tile-possibilities) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
