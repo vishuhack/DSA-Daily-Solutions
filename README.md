@@ -47,6 +47,7 @@ Vishvesh Paturkar
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2963-count-the-number-of-good-partitions](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -55,6 +56,7 @@ Vishvesh Paturkar
 | [0189-rotate-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0679-24-game](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0679-24-game) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2963-count-the-number-of-good-partitions](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
@@ -99,6 +101,7 @@ Vishvesh Paturkar
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2963-count-the-number-of-good-partitions](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -162,6 +165,7 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
+| [2963-count-the-number-of-good-partitions](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
 ## String
 |  |
 | ------- |
