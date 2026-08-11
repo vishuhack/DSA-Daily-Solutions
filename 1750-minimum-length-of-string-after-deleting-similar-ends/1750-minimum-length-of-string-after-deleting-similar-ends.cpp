@@ -4,21 +4,17 @@ public:
         int n = s.length();
 
         int i = 0;
-        int j = n-1;
-        while(i < j){
-            if(s[i] == s[j]){
-                char ch = s[i];
-                while(i < j && s[i] == ch){
-                    i++;
-                }
-                while(j >= i && s[j] == ch){
-                    j--;
-                }
-            }else{
-                break;
+        int j = n - 1;
+        while (i < j && (s[i] == s[j])) {
+            char ch = s[i];
+            while (i < j && s[i] == ch) {
+                i++;
+            }
+            while (j >= i && s[j] == ch) {
+                j--;
             }
         }
         // if(i==j) return 0;
-        return j-i+1;
+        return j - i + 1;
     }
 };
