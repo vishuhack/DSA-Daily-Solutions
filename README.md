@@ -49,6 +49,7 @@ Vishvesh Paturkar
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3719-longest-balanced-subarray-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -104,12 +105,14 @@ Vishvesh Paturkar
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3719-longest-balanced-subarray-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0169-majority-element) |
+| [3719-longest-balanced-subarray-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -217,4 +220,12 @@ Vishvesh Paturkar
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0881-boats-to-save-people) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
