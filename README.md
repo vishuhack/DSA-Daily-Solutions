@@ -45,6 +45,7 @@ Vishvesh Paturkar
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1718-construct-the-lexicographically-largest-valid-sequence](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1718-construct-the-lexicographically-largest-valid-sequence) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2963-count-the-number-of-good-partitions](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2963-count-the-number-of-good-partitions) |
@@ -71,6 +72,7 @@ Vishvesh Paturkar
 | [0881-boats-to-save-people](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0881-boats-to-save-people) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Bit Manipulation
@@ -139,6 +141,7 @@ Vishvesh Paturkar
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Database
 |  |
 | ------- |
