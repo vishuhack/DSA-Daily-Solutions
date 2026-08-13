@@ -75,6 +75,7 @@ Vishvesh Paturkar
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -184,6 +185,7 @@ Vishvesh Paturkar
 | [1593-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1593-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Bitmask
 |  |
 | ------- |
@@ -214,6 +216,7 @@ Vishvesh Paturkar
 | ------- |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
 | ------- |
