@@ -6,10 +6,7 @@ public:
         if(n==maxHave) return word;
         string res;
         int i = 0;
-        int j = 0;
-
-        while(i < n && j < n){
-            j = maxHave;
+        while(i < n){
             string temp = word.substr(i, maxHave);
             res = max(res, temp);
             i++;
