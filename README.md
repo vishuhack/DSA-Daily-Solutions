@@ -179,6 +179,7 @@ Vishvesh Paturkar
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1079-letter-tile-possibilities](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1079-letter-tile-possibilities) |
