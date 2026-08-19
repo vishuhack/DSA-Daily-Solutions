@@ -31,6 +31,7 @@ Vishvesh Paturkar
 | [0039-combination-sum](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -80,6 +81,7 @@ Vishvesh Paturkar
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0136-single-number) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 ## Sorting
@@ -163,6 +165,7 @@ Vishvesh Paturkar
 | ------- |
 | [0037-sudoku-solver](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/0679-24-game) |
 | [1079-letter-tile-possibilities](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1079-letter-tile-possibilities) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/vishuhack/DSA-Daily-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
